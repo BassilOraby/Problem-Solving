@@ -1,0 +1,6 @@
+﻿  Source.cpp
+e:\college\summer 3\pst algorithms\algorithms codes\preparing olympiad\preparing olympiad\source.cpp(11): warning C4477: 'scanf_s' : format string '%lld' requires an argument of type '__int64 *', but variadic argument 1 has type 'int *'
+  e:\college\summer 3\pst algorithms\algorithms codes\preparing olympiad\preparing olympiad\source.cpp(11): note: consider using '%d' in the format string
+  e:\college\summer 3\pst algorithms\algorithms codes\preparing olympiad\preparing olympiad\source.cpp(11): note: consider using '%Id' in the format string
+  e:\college\summer 3\pst algorithms\algorithms codes\preparing olympiad\preparing olympiad\source.cpp(11): note: consider using '%I32d' in the format string
+  Preparing Olympiad.vcxproj -> E:\College\Summer 3\PST Algorithms\Algorithms Codes\Preparing Olympiad\Debug\Preparing Olympiad.exe

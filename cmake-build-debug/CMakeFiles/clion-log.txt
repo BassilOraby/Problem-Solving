@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2018.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" "E:\College\Summer 3\PST Algorithms"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/College/Summer 3/PST Algorithms/cmake-build-debug

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+e:\college\summer 3\pst algorithms\algorithms codes\wachovia bank\wachovia bank\source.cpp(4): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Wachovia Bank.vcxproj -> E:\College\Summer 3\PST Algorithms\Algorithms Codes\Wachovia Bank\Debug\Wachovia Bank.exe

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+e:\college\summer 3\pst algorithms\algorithms codes\coin change\coin change\source.cpp(13): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Coin Change.vcxproj -> E:\College\Summer 3\PST Algorithms\Algorithms Codes\Coin Change\Debug\Coin Change.exe

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\college\summer 3\pst algorithms\algorithms codes\ilya and queries\ilya and queries\source.cpp(5): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\college\summer 3\pst algorithms\algorithms codes\ilya and queries\ilya and queries\source.cpp(12): warning C4018: '<': signed/unsigned mismatch
+  Ilya and Queries.vcxproj -> E:\College\Summer 3\PST Algorithms\Algorithms Codes\Ilya and Queries\Debug\Ilya and Queries.exe

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+e:\college\summer 3\pst algorithms\cumulative sum query\cumulative sum query\source.cpp(6): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Cumulative Sum Query.vcxproj -> E:\College\Summer 3\PST Algorithms\Cumulative Sum Query\Debug\Cumulative Sum Query.exe
