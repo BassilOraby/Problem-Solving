@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\hp\source\repos\2d-sort\2d-sort\source.cpp(5): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\source\repos\2d-sort\2d-sort\source.cpp(21): warning C4018: '<': signed/unsigned mismatch
+  2D-SORT.vcxproj -> C:\Users\hp\source\repos\2D-SORT\Debug\2D-SORT.exe

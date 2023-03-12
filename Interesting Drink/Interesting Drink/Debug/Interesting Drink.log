@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\hp\source\repos\interesting drink\interesting drink\source.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\interesting drink\interesting drink\source.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\interesting drink\interesting drink\source.cpp(35): warning C4018: '<': signed/unsigned mismatch
+  Interesting Drink.vcxproj -> C:\Users\hp\source\repos\Interesting Drink\Debug\Interesting Drink.exe

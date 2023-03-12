@@ -1,0 +1,48 @@
+#include <iostream>
+#include <vector>
+#include <stdio.h>
+using namespace std;
+
+int main()
+{
+    int t, n;
+    char let[100];
+    vector<char> xx;
+    vector<char>::iterator it;
+    scanf_s("%d", &t);
+    while (t--)
+    {
+        scanf_s("%d", &n);
+        for (int i = 0; i < n; i++)
+        {
+            gets_s(let);
+            for (char x : let)
+            {
+                switch (x)
+                {
+                case 'L':
+                    xx.push_back('L');
+                    break;
+
+                case 'R':
+                    xx.push_back('R');
+                    break;
+
+                case 'U':
+                    xx.push_back('D');
+                    break;
+
+                case 'D':
+                    xx.push_back('U');
+                    break;
+
+                default:
+                    break;
+                }
+            }
+        }
+        for (it = xx.begin(); it != xx.end(); it++)
+            cout << *it;
+    }
+    return 0;
+}

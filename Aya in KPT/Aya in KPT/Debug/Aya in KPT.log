@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\hp\source\repos\aya in kpt\aya in kpt\source.cpp(18): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\source\repos\aya in kpt\aya in kpt\source.cpp(10): warning C4101: 'a': unreferenced local variable
+c:\users\hp\source\repos\aya in kpt\aya in kpt\source.cpp(10): warning C4101: 'b': unreferenced local variable
+c:\users\hp\source\repos\aya in kpt\aya in kpt\source.cpp(10): warning C4101: 'c': unreferenced local variable
+c:\users\hp\source\repos\aya in kpt\aya in kpt\source.cpp(10): warning C4101: 'd': unreferenced local variable
+  Aya in KPT.vcxproj -> C:\Users\hp\source\repos\Aya in KPT\Debug\Aya in KPT.exe

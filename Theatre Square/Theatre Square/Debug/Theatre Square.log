@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\hp\source\repos\theatre square\theatre square\source.cpp(14): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+  Theatre Square.vcxproj -> C:\Users\hp\source\repos\Theatre Square\Debug\Theatre Square.exe
