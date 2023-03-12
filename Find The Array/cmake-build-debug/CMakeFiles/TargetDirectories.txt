@@ -1,3 +1,0 @@
-E:/College/Summer 3/PST Algorithms/Algorithms Codes/Problem-Solving/Find The Array/cmake-build-debug/CMakeFiles/Find_The_Array.dir
-E:/College/Summer 3/PST Algorithms/Algorithms Codes/Problem-Solving/Find The Array/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/College/Summer 3/PST Algorithms/Algorithms Codes/Problem-Solving/Find The Array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
